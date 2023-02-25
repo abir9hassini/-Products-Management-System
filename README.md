@@ -1,4 +1,4 @@
-# tp_springCloud
+# Tp_springCloud
  This project represents the implementation of a distributed application based on Micro-services architecture using Spring cloud
  ![image](https://user-images.githubusercontent.com/40744191/221363739-98400bf1-589d-4493-9d0a-1901934e5343.png)
 <h2>Content</h2>
@@ -14,3 +14,10 @@ the Eureka Server directory</li>
 Customer and Inventory services</li>
 
  </ul>
+
+<h2>References</h2>
+<ul>
+ <li><a href="https://cloud.spring.io/spring-cloud-netflix/reference/html/](https://cloud.spring.io/spring-cloud-gateway/reference/html/">"Spring Cloud Gateway" </a>documentation</li>
+ <li><a href="https://cloud.spring.io/spring-cloud-netflix/reference/html/">"Spring Cloud Netflix"</a>documentation</li>
+ <li><a href="https://cloud.spring.io/spring-cloud-netflix/reference/html/](https://cloud.spring.io/spring-cloud-openfeign/reference/html/">"Spring Cloud OpenFeign"</a>documentation</li>
+</ul>
